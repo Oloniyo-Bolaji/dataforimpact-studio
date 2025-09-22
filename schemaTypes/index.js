@@ -6,6 +6,7 @@ import announcmentSchema from './announcment-schema'
 import testimonialSchema from './testimonial-schema'
 import projectsSchema from './projects-schema'
 import foundersnoteSchema from './foundersnote-schema'
+import socialsSchema from './socials-schema'
 
 
 
@@ -18,4 +19,5 @@ export const schemaTypes = [
   blogArticlesSchema,
   testimonialSchema,
   projectsSchema,
+  socialsSchema,
 ]
